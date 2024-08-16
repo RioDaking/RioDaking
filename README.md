@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Rollins
+## Hi there!
+## My name is Rollins
 - 👀 I’m interested in Data and IT
 - 🌱 I’m currently learning Data Analytics at Dahel Techies
 - 💞️ I’m looking to collaborate with organizations to solve data problems
