@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rollins
+- 👋 Hi, I’m Rollins
 - 👀 I’m interested in Data and IT
 - 🌱 I’m currently learning Data Analytics at Dahel Techies
 - 💞️ I’m looking to collaborate with organizations to solve data problems
